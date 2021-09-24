@@ -7,7 +7,6 @@
 - ✔ Estudando PHP
 - 🎮 Gosto de jogar!
 - 🏠 Sobral-CE
-- 💌 Instagram: @guilherme.doc
 
 
 <div align="center">
