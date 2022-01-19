@@ -4,7 +4,7 @@
 
 
 - 🔭 Hoje trabalho com front-end buscando ser full-stack!
-- ✔ Estudando RactJs
+- ✔ Estudando ReactJs
 - 🎮 Gosto de jogar!
 - 🏠 Sobral-CE
 
