@@ -7,8 +7,7 @@
 - ✔ Estudando ReactJs
 - 🎮 Gosto de jogar!
 - 🏠 Sobral-CE
-
-
+- 🖥️ Meu portifólio https://portifolio-guilherme.vercel.app/
 <div align="center">
   <a href="https://github.com/Guilherme-devcode">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-devcode&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
