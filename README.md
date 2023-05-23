@@ -5,7 +5,6 @@
 
 - 🔭 Hoje trabalho com front-end buscando ser full-stack!
 - ✔ Estudando Flutter
-- 🎮 Gosto de jogar!
 - 🏠 Sobral-CE
 - 🖥️ Meu portifólio https://portifolio-guilherme.vercel.app/
 <div align="center">
