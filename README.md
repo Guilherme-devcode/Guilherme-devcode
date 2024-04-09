@@ -2,8 +2,6 @@
 
 
 
-
-- 🔭 Hoje trabalho com front-end buscando ser full-stack!
 - 🏠 Sobral-CE
 - 🖥️ Meu portifólio https://portifolio-guilherme.vercel.app/
 <div align="center">
